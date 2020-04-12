@@ -8,6 +8,8 @@ JsonLogic is documented extensively at [JsonLogic.com](http://jsonlogic.com), in
 
 ## Installation
 
+https://search.maven.org/artifact/io.github.meiskalt7/json-logic-java/1.0.0/jar
+
 ```xml
 <dependency>
   <groupId>io.github.meiskalt7</groupId>
