@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+out/
+build/
+.DS_Store
+gradle.properties
